@@ -1,0 +1,19 @@
+{
+    "title": "Channel ABC 1",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1506631781",
+    "date_modified": "1506631931",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117404174",
+    "loginId": "1758991",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-ABC-1",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
